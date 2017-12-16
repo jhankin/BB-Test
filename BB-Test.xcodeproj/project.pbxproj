@@ -433,6 +433,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = N9J683Q354;
 				INFOPLIST_FILE = "BB-Test/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.chronocidelabs.BB-Test";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -448,6 +449,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = N9J683Q354;
 				INFOPLIST_FILE = "BB-Test/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.chronocidelabs.BB-Test";
 				PRODUCT_NAME = "$(TARGET_NAME)";
